@@ -1,4 +1,4 @@
-package DefaultMethods;
+package defaultMethods;
 
 public class Root {
     public static void main(String[] args) {

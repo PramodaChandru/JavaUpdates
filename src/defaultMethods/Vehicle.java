@@ -1,4 +1,4 @@
-package DefaultMethods;
+package defaultMethods;
 
 interface Vehicle {
     void start();

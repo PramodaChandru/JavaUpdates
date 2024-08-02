@@ -1,4 +1,4 @@
-package DefaultMethods;
+package defaultMethods;
 
 class Car implements Vehicle {
     @Override
