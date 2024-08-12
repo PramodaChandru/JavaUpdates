@@ -2,6 +2,7 @@ package predicates;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Consumer;
 import java.util.function.Predicate;
 
 public class Predicate2 {
@@ -12,7 +13,7 @@ public class Predicate2 {
 
         Predicate<Country> predicate = (country) -> country.getCountryName().startsWith("I");
         for(Country c : countries) {
-            if(predicate.test(c)) {
+            if (predicate.test(c)) {
                 System.out.println(c);
             }
         }
