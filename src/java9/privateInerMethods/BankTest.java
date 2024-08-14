@@ -1,4 +1,4 @@
-package java9.privateinterface;
+package java9.privateInerMethods;
 
 public class BankTest {
 
