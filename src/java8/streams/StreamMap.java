@@ -1,6 +1,6 @@
-package streams;
+package java8.streams;
 
-import utility.Data;
+import java8.utility.Data;
 
 import java.util.List;
 import java.util.stream.Collectors;

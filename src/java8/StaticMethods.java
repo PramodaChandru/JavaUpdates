@@ -1,3 +1,5 @@
+package java8;
+
 interface Calculator {
     // Static method
     static int add(int a, int b) {

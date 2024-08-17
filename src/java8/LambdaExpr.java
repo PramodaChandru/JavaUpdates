@@ -1,3 +1,4 @@
+package java8;
 
 @FunctionalInterface
 interface Test {

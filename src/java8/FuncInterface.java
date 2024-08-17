@@ -1,3 +1,5 @@
+package java8;
+
 @FunctionalInterface
 interface Greeting {
     void sayHello(String name);

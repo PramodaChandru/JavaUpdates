@@ -1,4 +1,4 @@
-package utility;
+package java8.utility;
 
 public class Employee {
     private String name;

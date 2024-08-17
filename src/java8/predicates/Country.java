@@ -1,4 +1,4 @@
-package predicates;
+package java8.predicates;
 
 public class Country {
 

@@ -1,10 +1,10 @@
-package streams;
+package java8.streams;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * print even numbers using streams and method reference
+ * print even numbers using java8.streams and method reference
  */
 public class Streams_01 {
     public static void main(String[] args) {
